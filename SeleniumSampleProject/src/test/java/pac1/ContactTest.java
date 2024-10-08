@@ -7,8 +7,8 @@ public class ContactTest {
 	@Test
 	public void createContactTest() {
 		
-		String URL = System.getProperty("url", "http://localhost:8888");
-		String BROWSER = System.getProperty("browser", "chrome");
+		String URL = System.getProperty("url");
+		String BROWSER = System.getProperty("browser");
 		String USERNAME = System.getProperty("username");
 		String PASSWORD = System.getProperty("password");
 		
