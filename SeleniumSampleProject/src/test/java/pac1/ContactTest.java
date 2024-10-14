@@ -6,7 +6,7 @@ public class ContactTest {
 	
 	@Test
 	public void createContactTest() {
-	  System.out.println("=====AMRUTHA==========");
+	  //System.out.println("=====AMRUTHA==========");
 		String URL = System.getProperty("url");
 		String BROWSER = System.getProperty("browser");
 		String USERNAME = System.getProperty("username");
