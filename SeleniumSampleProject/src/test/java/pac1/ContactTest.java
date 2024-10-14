@@ -6,7 +6,8 @@ public class ContactTest {
 	
 	@Test
 	public void createContactTest() {
-	  //System.out.println("=====AMRUTHA==========");
+	  System.out.println("=====AMRUTHA==========");
+	  System.out.println("=====AMRUTHA==========");
 		String URL = System.getProperty("url");
 		String BROWSER = System.getProperty("browser");
 		String USERNAME = System.getProperty("username");
@@ -21,6 +22,7 @@ public class ContactTest {
 	
 	@Test
 	public void modifyContactTest() {
+		System.out.println("======RADHIKA===========");
 		System.out.println("======RADHIKA===========");
 		System.out.println("modifyContactTest executed");
 	}
